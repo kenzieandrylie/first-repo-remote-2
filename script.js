@@ -1,1 +1,1 @@
-console.log("Satu")
+console.log("dari github")
